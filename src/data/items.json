@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Stay Awake",
+    "price": 49.9,
+    "imgUrl": "/img/c-d-x-PDX_a_82obo-unsplash.jpg"
+  },
+  {
+    "id": 2,
+    "name": "montelukast sodium",
+    "price": 228.8,
+    "imgUrl": "/img/florian-klauer-mk7D-4UCfmg-unsplash.jpg"
+  },
+  {
+    "id": 3,
+    "name": "EDURANT",
+    "price": 4.49,
+    "imgUrl": "/img/heather-ford-Fq54FqucgCE-unsplash.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Simvastatin",
+    "price": 2.75,
+    "imgUrl": "/img/jakob-owens-qQdv-By21yE-unsplash.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Dynarex HP 3",
+    "price": 46.9,
+    "imgUrl": "/img/mike-dorner-sf_1ZDA1YFw-unsplash.jpg"
+  }
+]
